@@ -8,6 +8,6 @@ I'm a mobile app developer interested in wearable technologies. I'm learning fun
 
 [My LinkedIn](https://www.linkedin.com/profile/view?id=240462494)
 
-[My Google Plue](google.com/+pratt2121)
+[My Google Plus](google.com/+pratt2121)
 
 [My StackOverflow profile](http://stackoverflow.com/users/1104902/entryleveldev)
