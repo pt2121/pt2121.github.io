@@ -17,6 +17,7 @@ Some of my projects:
 * [MarbledCat](http://prt2121.github.io/MarbledCat) : Rx Marble diagram in logcat
 * [json2pojo](http://prt2121.github.io/json2pojo) : Generating Java pojo files from json
 * [ScalaAndroidMusicPlayer](https://github.com/illi-ichi/ScalaAndroidMusicPlayer) : Music player app
+* [glass-gdk-progressbar](https://github.com/prt2121/glass-gdk-progressbar) : Painless ProgressBar for Glass GDK
 * [CityRide for Glass](https://glass.google.com/u/0/glassware/8304354602258824944) : [Featured on fastcoexist](http://www.fastcoexist.com/3033432/this-app-tells-google-glass-users-where-to-dock-a-citi-bike)
 * [Intellibins](http://www.intellibins.nyc/) : Hackathon winner. Featured on [fastcoexist](http://www.fastcoexist.com/3047733/this-new-app-makes-it-easier-to-recycle-everything-because-just-stop-throwing-things-out-for) and [alleywatch](http://www.alleywatch.com/2015/07/this-nyc-startup-aims-to-build-a-recycling-ecosystem-with-your-phone/)
 
