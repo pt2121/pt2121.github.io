@@ -5,7 +5,7 @@ Thanks for visiting Prat's GitHub IO!
 
 I'm a passionate software engineer:
 
-* By day: Android App developer at Meetup
+* By day: Android Engineer at [Meetup](http://www.meetup.com/)
 * By night: FP/Rx enthusiast, open source contributor and MOOCer.
 
 Also, I had done some research in search, web mining and machine learning when I was a grad student.
