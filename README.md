@@ -17,7 +17,7 @@ More about me:
 
 Some of my projects:
 * [Snapper](http://prt2121.github.io/Snapper/) : Screen capturing & recording for Android devices
-* [summon](http://prt2121.github.io/summon/) : Request Uber for your friends : [Kotlin/Robovm Contest (Grand Prize)](https://robovm.com/kotlin-contest-and-the-winner-is/)
+* [summon](http://prt2121.github.io/summon/) : Request Uber for friends : [Kotlin/Robovm Contest winner](https://robovm.com/kotlin-contest-and-the-winner-is/)
 * [Moody Bird](http://prt2121.github.io/moody-bird) : Flappy Bird clone for Glass<sup>TM</sup>
 * [MarbledCat](http://prt2121.github.io/MarbledCat) : Rx Marble diagram in logcat
 * [json2pojo](http://prt2121.github.io/json2pojo) : Generating Java pojo files from json
