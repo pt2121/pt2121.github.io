@@ -1,0 +1,8 @@
+title: zzz(´～`)
+description: (((ปรัชญ์)))
+google_analytics: UA-52295104-2
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
