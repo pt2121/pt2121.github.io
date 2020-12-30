@@ -7,7 +7,7 @@ I got my first full-time programming job in 2005 and I'm hooked.
 </details>
 
 <details><summary>I ♡ open source</summary>
-I used to be more active here. Here are some of <a href="https://ghuser.io/pt2121">my <b>old</b> contributions</a>, some more with my <b>old</b> username, <a href="https://web.archive.org/web/20170104083442/github.com/prt2121">prt2121</a> & <a href="https://web.archive.org/web/20160210084710/github.com/prt2121">here</a>.
+I used to be more active here. Here are some of <a href="/contributions.html">my contributions</a>, some more with my <b>old</b> username, <a href="https://web.archive.org/web/20170104083442/github.com/prt2121">prt2121</a> & <a href="https://web.archive.org/web/20160210084710/github.com/prt2121">here</a>.
 </details>
 
 <details>
