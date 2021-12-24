@@ -2,7 +2,7 @@ title: prat
 description: (ปรัชญ์)
 google_analytics: UA-52295104-2
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
