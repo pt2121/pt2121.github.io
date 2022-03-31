@@ -14,3 +14,8 @@ I used to be more active here. Here are some of <a href="/contributions.html">my
     <summary>I ♡ learning</summary>
     <a href="/certificates.html">I have some professional certificates and completed more than 30 online MOOCs.</a>
 </details>
+
+<details>
+    <summary>I ♡ volunteering</summary>
+    I volunteer with <a href="http://www.saveourbeach.org/seal-beach">Save Our Beach</a> and <a href="https://www.solveoregon.org">SOLVE</a>.
+</details>

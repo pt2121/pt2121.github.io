@@ -17,6 +17,5 @@ I used to be more active here. Here are some of <a href="/contributions.html">my
 
 <details>
     <summary>I ♡ volunteering</summary>
-    <a href="http://www.saveourbeach.org/seal-beach">Save Our Beach</a>
-    <a href="https://www.solveoregon.org">SOLVE</a>
+    I volunteer with <a href="http://www.saveourbeach.org/seal-beach">Save Our Beach</a> and <a href="https://www.solveoregon.org">SOLVE</a>.
 </details>
