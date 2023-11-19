@@ -4,7 +4,7 @@ he/him/they/them
 
 ### Contact
 - LinkedIn: [tprat](https://www.linkedin.com/in/tprat/)
-- Twitter: pt2121
+- Linktree: [prat.tana](https://linktr.ee/prat.tana)
 
 <details><summary>I ♡ coding</summary>
 I got my first full-time programming job in 2005 and I'm hooked.
